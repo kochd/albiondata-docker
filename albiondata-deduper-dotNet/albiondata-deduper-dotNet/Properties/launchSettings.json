@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "albiondata-deduper-dotNet": {
+      "commandName": "Project",
+      "commandLineArgs": "-d"
+    }
+  }
+}
